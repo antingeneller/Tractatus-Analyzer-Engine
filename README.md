@@ -2,7 +2,7 @@
 
 
 
-The following was an attempt to construct (vibe-code) a model which term-indexes a natural language string in relation to the propositions laid out in Wittgenstein's Tractatus Logico-Philosophicus and thereby classify it within the logical atomist model laid out within the Tractatus.
+The following was an attempt to construct (vibe-code) a model which term-indexes a natural language string in relation to the propositions laid out in Wittgenstein's Tractatus Logico-Philosophicus and thereby classify it within early-Wittgenstein's logical atomist model.
 
 
 
