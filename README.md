@@ -79,19 +79,19 @@ Interactive commands: `:tree`, `:prop N`, `:seven`, `:quit`.
 
 
 * `src/tractatus.h` — shared interface.
-* `src/tractatus\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_data.c` — the numbered propositions: all seven cardinal
+* `src/tractatus\_data.c` — the numbered propositions: all seven cardinal
 propositions plus the decimal expansions that carry the doctrines (picture
 theory 2.1–2.225, sense 4.02x, tautology/contradiction 4.46x, truth-functions
 5–5.3, the limits of language 5.6–5.641, ethics and the mystical 6.4–6.522,
 and 7). The numbering itself encodes the subset relation: `4.0621` comments on
 `4.06`, which comments on `4`.
-* `src/tractatus\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_engine.c` — the analyser. It looks for the general
+* `src/tractatus\_engine.c` — the analyser. It looks for the general
 propositional form "such and such is the case" (4.5) and classifies the input
 as one of: picture, truth-functional compound, negation, tautology,
 contradiction, equation, value-utterance, metaphysical pseudo-proposition,
 attempt to say what can only be shown, question, or plain nonsense. Each
 verdict carries its truth-conditions, the names it isolated (3.202), the
 asserted form in the style of 4.24, and the chain of propositions it sits under.
-* `src/main\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_tty.c` — the TTY frontend.
-* `src/main\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_gui.c` — the Win32 GUI frontend.
+* `src/main\_tty.c` — the TTY frontend.
+* `src/main\_gui.c` — the Win32 GUI frontend.
 
