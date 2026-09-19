@@ -2,7 +2,7 @@
 
 
 
-The following was an attempt to construct (vibe-code) a model which term-indexes a natural language string in relation to the propositions laid out in Wittgenstein's Tractatus Logico-Philosophicus and thereby classify it within early-Wittgenstein's logical atomist model.
+The following was an attempt to construct (vibe-code) a model which term-indexes a natural language string in relation to the propositions laid out in Wittgenstein's Tractatus Logico-Philosophicus and thereby classify it within the early-Wittgenstein logical atomist model.
 
 
 
@@ -10,7 +10,7 @@ The following was an attempt to construct (vibe-code) a model which term-indexes
 
 
 
-Enter a natural language string (preferably a sentence) into the text window and press 'Analyze', the model will attempt to highlight where this sentence stands in relation to the Tractatus. There is also a 'Whole book' section which features the entirety of the Tractatus's 526 numbered propositions. You can also switch between the original German and the Ogden/Ramsey translation (1922, public domain). B)
+Enter a natural language string (preferably a sentence) into the text window and press 'Analyze', the model will attempt to highlight where this sentence stands in relation to the Tractatus. There is also a 'Whole book' section which features the entirety of the Tractatus's 526 numbered propositions. You can also switch between the original German and the Ogden/Ramsey translation (1922, public domain).
 
 
 
